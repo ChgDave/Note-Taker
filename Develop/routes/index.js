@@ -1,3 +1,5 @@
+"strict mode";
+
 // import npm libraries
 const express = require("express");
 
