@@ -1,15 +1,15 @@
 "strict mode";
 
 // import npm libraries
-const express = require("express");
+const api = require("express").Router();
 
 // import the notes route
 const notesRouter = require("./notes");
 
 // create app instance
-const app = express();
+// const app = express();
 
 // create middleware for api/notes
-app.use("/notes", notesRouter);
+api.use("/notes", notesRouter);
 
-module.exports = app;
+module.exports = api;
