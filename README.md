@@ -16,6 +16,8 @@ This is the week 11 challenge project for the Northwestern coding bootcamp. For 
 
 - [Github Repo](#github-repo)
 
+- [Deployed Link](#deployed-link)
+
 - [Questions](#questions)
 
 ## User Story
@@ -58,6 +60,8 @@ This project is licensed under MIT License
 ## Github Repo
 
 https://github.com/ChgDave/Note-Taker
+
+## Deployed Link
 
 ## Questions
 
