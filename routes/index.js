@@ -1,5 +1,5 @@
 "strict mode";
-
+// create router instead of new app instance
 // import npm libraries
 const api = require("express").Router();
 
